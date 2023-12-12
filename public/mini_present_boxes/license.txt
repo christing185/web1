@@ -1,0 +1,8 @@
+Model Information:
+* title:	Mini Present Boxes
+* source:	https://sketchfab.com/3d-models/mini-present-boxes-27f9cae44810443c8590ea60dc357688
+* author:	TiraArt (https://sketchfab.com/TiraArt)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
