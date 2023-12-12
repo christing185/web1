@@ -28,6 +28,8 @@ const renderer = new THREE.WebGLRenderer();
 renderer.setSize( window.innerWidth, window.innerHeight );
 document.body.appendChild( renderer.domElement );
 
+const textureLoader = new THREE.TextureLoader();
+			
 const texture1 = textureLoader.load('https://raw.githubusercontent.com/christing185/web1/main/public/mini_present_boxes/textures/present_01_baseColor.png');	
 const texture2 = textureLoader.load('https://raw.githubusercontent.com/christing185/web1/main/public/mini_present_boxes/textures/present_01_metallicRoughness.png');	
 const texture3 = textureLoader.load('https://raw.githubusercontent.com/christing185/web1/main/public/mini_present_boxes/textures/present_01_normal.png');	
